@@ -2,7 +2,7 @@ Config = {}
 
 Config.Debug = true
 
-Config.Language = "en"
+Config.Language = "fr"
 
 Config.DeathDropsWeapon = true -- Drops your current weapon upon death.
 
